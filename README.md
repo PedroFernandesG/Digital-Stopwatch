@@ -1,2 +1,2 @@
 # Cronometro-Digital
-Projeto de desenvolvimento de um cronometro digital em Verilog no software Quartus para a disciplina de Sistemas Digitais do Centro de Informatica-UFPE
+Project to develop a digital stopwatch in Verilog with Quartus software for the Digital Systems course at the Informatics Center of UFPE.
